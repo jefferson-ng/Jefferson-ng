@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 My  name is Jefferson NGUECHOUM ,I'm a  passionate software engineering student with a keen interest in solving real-world problems through technology. Currently pursuing my bachelor's degree in Software Engineering at the University of Duisburg-Essen in Germany, I am eager to apply my skills and knowledge to contribute to innovative projects in the tech industry.
 
 
@@ -19,9 +19,8 @@ My  name is Jefferson NGUECHOUM ,I'm a  passionate software engineering student 
 💬 Ask Me About
   Any questions related to software engineering, programming languages, or academic pursuits—I'm always eager to share my knowledge and engage in meaningful discussions.
 
-📫 How to Reach Me
-  Feel free to connect with me on Twitter @nguechoum or LinkedIn Jefferson Nguechoum for networking, collaboration opportunities, or discussions about software            engineering and technology.
-
 😄 Pronouns
   He/Him
--->
+  
+📫 How to Reach Me
+  Feel free to connect with me on Twitter @nguechoum or LinkedIn Jefferson Nguechoum for networking, collaboration opportunities, or discussions about software            engineering and technology.
