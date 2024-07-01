@@ -4,7 +4,7 @@
 My  name is Jefferson NGUECHOUM ,I'm a  passionate software engineering student with a keen interest in solving real-world problems through technology. Currently pursuing my bachelor's degree in Software Engineering at the University of Duisburg-Essen in Germany, I am eager to apply my skills and knowledge to contribute to innovative projects in the tech industry.
 
 
-🔭 Currently Working on mastering DSA with C++ .
+🔭 Currently Working on mastering DSA with Python.
 
 🌱 Currently Learning fullstack deavelopment tools and technologies.
 
