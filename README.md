@@ -6,7 +6,7 @@ My  name is Jefferson NGUECHOUM ,I'm a  passionate software engineering student 
 
 🔭 Currently pursuing my Bachelor in Software Engineering.
 
-🌱 Currently Learning fullstack deavelopment tools and technologies like Java, SpringBoot, PostgreSQL, HTML, CSS, JS, TypeScript and Angular.
+🌱 Currently Learning fullstack development tools and technologies like Java, SpringBoot, PostgreSQL, HTML, CSS, JS, TypeScript and Angular.
 
 👯 Looking to Collaborate on exciting projects that challenge me to apply my programming skills and problem-solving abilities in creative ways.
 
